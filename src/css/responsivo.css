@@ -47,7 +47,7 @@
     }
 
     .conteudo {
-        top: -30%;
+        top: -25%;
     }
 
     .conteudo .nome-personagem {
@@ -64,7 +64,7 @@
     }
     
     .rodape p {
-        padding: 20px;
+        padding: 30px 10px 0 10px;
         text-align: center;
     }
     
